@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="login">Sign Up</string>
+    <string name="account">Account</string>
+    <string name="pass">Password</string>
+    <string name="regist">Sign In</string>
+    <string name="or">or sign up with</string>
+    <string name="foget">Foget your password</string>
+</resources>
